@@ -44,11 +44,11 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. M
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[Angel-Guxman]&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Angel-Guxman&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[Angel-Guxman]&layout=compact&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Guxman&layout=compact&theme=radical&hide_border=true)
 
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=[Angel-Guxman]&theme=radical&hide_border=true)
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Angel-Guxman&theme=radical&hide_border=true)
 
 </div>
 
