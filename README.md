@@ -64,7 +64,7 @@ Predicciones avanzadas de campañas mediante Inteligencia Artificial y Machine L
 
 ## 📈 Actividad de Contribuciones
 
-![Gráfico de contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=[Angel-Guxman]&theme=react-dark&bg_color=20232a&hide_border=true)
+![Gráfico de contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=Angel-Guxman&theme=react-dark&bg_color=20232a&hide_border=true)
 
 
 ## 🌐 Conéctate conmigo
