@@ -6,12 +6,12 @@
 
 Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Me especializo en desarrollo web full-stack con experiencia en tecnologías modernas y metodologías ágiles.
 
-- 🔭 Actualmente trabajando en **[Proyecto Actual]**
-- 🌱 Aprendiendo **[Tecnología que estás aprendiendo]**
+- 🔭 Actualmente trabajando en **Niux Marketing**
+- 🌱 Aprendiendo **Go**
 - 👯 Buscando colaborar en **proyectos open source**
-- 💬 Pregúntame sobre **JavaScript, React, Node.js, Python**
-- 📫 Contáctame: **[tu-email@ejemplo.com]**
-- ⚡ Dato curioso: **[Algo interesante sobre ti]**
+- 💬 Pregúntame sobre **TypeScript, React, Node.js, Python**
+- 📫 Contáctame: **angelguzman10911@gmail.com**
+- ⚡ Dato curioso: **Me gusta el Espagueti**
 
 ## 🛠️ Tecnologías y Herramientas
 
