@@ -1,10 +1,6 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Ángel Guzmán
 
-<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Desarrollador%20Full%20Stack&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
-
-</div>
 
 ## 🚀 Sobre mí
 
