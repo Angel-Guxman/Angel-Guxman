@@ -11,7 +11,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. M
 - 👯 Buscando colaborar en **proyectos open source**
 - 💬 Pregúntame sobre **TypeScript, React, Node.js, Python**
 - 📫 Contáctame: **angelguzman10911@gmail.com**
-- ⚡ Dato curioso: **Me gusta el Espagueti**
+
 
 ## 🛠️ Tecnologías y Herramientas
 
